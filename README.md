@@ -9,7 +9,7 @@
 -> Using TWAP (Time Weightned Avg Price) -> You can set the time window you willl use to your application. Higher the time window, higher is the cost of manipulation.
 
 [Pt2 - Uniswap History](https://uniswap.org/blog/uniswap-history/)
-- Dan Robinson helepd him with gas efficient contract during a flight
+- Dan Robinson helped him with gas efficient contract during a flight
 - Ric burton (Wallet founder) helped him in the beggining
 - Hired one great developer to build the entire frontend
 - Formal Verification in addition to Security Audit
