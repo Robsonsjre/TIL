@@ -16,11 +16,13 @@
 
 ### 28/03/2020
 
-- TIL **(Frontend)** *React Hooks* -> How to implement Private Route w/ Context. Also learned that useContext() is the same as `<Context.Consumer>` and you should pass a handler through `<Context.Provider>` if you want to change the context from a child component
+- TIL **(Frontend)** *React Hooks* -> How to implement **Private Route w/ Context**. Also learned that useContext() is the same as `<Context.Consumer>` and you should pass a handler through `<Context.Provider>` if you want to change the context from a child component
+
+- TIL **(Misc)** *Vscode* -> Learned how to configure standarjs to run onSave, and changed keyboard biding to run this on SHIFT ALT F
 
 ### 29/03/2020
 
-- TIL **(Backend)** *Firebase* -> How to handle Login and Signup w/ email and password using Firebase.
+- TIL **(Backend)** *Firebase* -> How to handle **Login/Signup/Logout** w/ email and password using Firebase. And How to **deploy** a react app to firebase Hosting service.
 
 
 
