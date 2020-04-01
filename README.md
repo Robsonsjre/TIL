@@ -32,7 +32,7 @@
 
 - TIL **(Defi)** *UMA* -> Tested new UMA price oracle approach. The problem they are solving is reducing the amount of times MakerDAO updates their oracle unnecessary. In their approach a person trying to liquidate or withdraw needs to wait a time window of 1 hour, and them we have monetary incentives for "validators" to attempt a band intention liquidation/withdraw.
 
-## 01/04/2020
+### 01/04/2020
 
 - TIL **(Defi)** *FlashLoan -> Learned this [youtube tutorial](https://www.youtube.com/watch?v=03jO9vbrXvY) and read *Aave* [documentation](https://developers.aave.com/developers/)
 
