@@ -34,8 +34,33 @@
 
 ### 01/04/2020
 
-- TIL **(Defi)** *FlashLoan -> Learned this [youtube tutorial](https://www.youtube.com/watch?v=03jO9vbrXvY) and read *Aave* [documentation](https://developers.aave.com/developers/)
+- TIL **(Defi)** *FlashLoan* -> Learned this [youtube tutorial](https://www.youtube.com/watch?v=03jO9vbrXvY) and read *Aave* [documentation](https://developers.aave.com/developers/)
 
+
+### 07/04/2020
+
+- TIL **(Ethereum)** *Remix* -> Improved my remix proficiency level, deployed on mainnet and testnets some contracts.
+
+### 09/04/2020
+
+- TIL **(DeFi)** *FlashLoan* -> Did a talk showing three flashloan use cases: 1) Onchain Arbritage / 2) Yield borrowing transfer / 3) Vaults liquidations. And a working example of a flashloan contract ono Kovan with Remix.
+
+### 13/04/2020
+
+- TIL **(Frontend)** *Magic* -> Magic is a passwordless Fortmatic implementation using Dencentralized identifiers[DID](https://w3c-ccg.github.io/did-primer/). Its a new type of a global unique identifier. Read their integration with firebase and, but didnt implemented yet.
+
+### 14/04/2020
+
+- TIL **(Fundraising)** *Convertible Note* -> Found [this channel](https://www.youtube.com/watch?v=njx09wXb9o0) with a lot of simple explanations about the fundraising proccess. Understood that CN is much easier and fast proccess to raise funds before you know what is your first valuation. It works like a Loan, that you pay instead of money, in shares of you next investment round. And as a Loan, it has interest rate, maturity date, a cap, and a discount factor based on the next valuation.
+Obs: Also learn that in business, you hardly ever split/sell your own shares (change ownership) Unless the business is actually acquired. Usually you "mint/issue" new shares and dilute your own shares.
+
+There are two simpified templates that we can use as a Convertible Note: KISS (Keep it simple security) from 500 startups and SAFE (Simple Agreement of Future Equity) from Ycombinator.
+
+### 15/04/2020
+
+- TIL **(Ethereum)** *v2* ->
+
+- TIL **(Ethereum)** *WETH* ->
 
 
 
