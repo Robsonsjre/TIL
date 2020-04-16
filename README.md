@@ -58,8 +58,8 @@ There are two simpified templates that we can use as a Convertible Note: KISS (K
 
 ### 15/04/2020
 
-- TIL **(Ethereum)** *v2* ->  https://www.youtube.com/watch?v=j4J3RWVNzPw
-    phase0 -> Beaconchain (You will stake on eth1 to mint eth on eth2) just one way
+- TIL **(Ethereum)** *v2* ->  https://www.youtube.com/watch?v=j4J3RWVNzPw    
+    phase0 -> Beaconchain (You will stake on eth1 to mint eth on eth2) just one way    
     phase1 -> ?
     phase2 -> 
 
