@@ -65,8 +65,8 @@ There are two simpified templates that we can use as a Convertible Note: KISS (K
 
 - TIL **(Ethereum)** *WETH* -> Learned that wETH is simply a contract that is ERC20, with a `mint` and a `burn` functions, the mint, lock in the contract the msg.value.
 
+### 20/04/2020
 
-
-
-
+ - TIL **(Enterpreuner)** *Licenses* -> Remember the difference of open-source (permissive licenses) and free software(prohibited licenses). Learn how to correctly give credits for forked [repos under MIT license](https://softwareengineering.stackexchange.com/questions/277688/if-i-fork-a-project-on-github-that-is-licensed-under-mit-how-to-i-handle-the-at):
+ 
 
