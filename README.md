@@ -69,4 +69,29 @@ There are two simpified templates that we can use as a Convertible Note: KISS (K
 
  - TIL **(Enterpreuner)** *Licenses* -> Remember the difference of open-source (permissive licenses) and free software(prohibited licenses). Learn how to correctly give credits for forked [repos under MIT license](https://softwareengineering.stackexchange.com/questions/277688/if-i-fork-a-project-on-github-that-is-licensed-under-mit-how-to-i-handle-the-at):
  
+ ### 24/04/2020
+
+ - TIL **(Software Developer)** *Gitbook* -> Learned how to create a gitbook and add Google analytics to it. (Still need to learn how to integrate gitbook directly to github)
+ 
+  ### 25/04/2020
+
+ - TIL **(Ethereum)** *Solidity* -> Read about [solidity patterns](https://github.com/fravoll/solidity-patterns). Very good source to start getting deeper understanding about security issues. Read about reentrancy security issues: `The Ethereum Virtual Machine does not allow for concurrency` . That leads to some problems that developers usually don't think about it, it's a problem kind of unique to the Ethereum development.
+ 
+  ### 26/04/2020
+
+ - TIL **(DeFi)** *Aave* -> Read two updated blog posts showing some improvements. Learned two main things:
+0.13% of all LEND was burnt until now (1.2BI token supply and 1.6M burnt). Some aspects to have in mind when analyzing Monetary Policy:
+- Fixed supply? How much? `market cap / asset price`
+- Burning Rate? What make token burn? Fees? When? Every CDP/vault repayment (MakerDAO)? Every Loan or Flashlloan (like aave?)
+- Do they increase supply in any way? 
+ 
+   ### 27/04/2020
+
+ - TIL **(Ethereum)** *Meta Transactions* -> Started to learn again about Meta Transactions - Gasless transactions. Usually its a common pattern paying for users (user acquisition cost) in the first case and whenever is possible, reduce his friction.
+     Liked the Austin Griffith example: - Mobile that holds private key but dont want to hold ETH. You just *sign* a transaction and let a delegation caller (?) to pay the costs for you. 
+     Open zeppelin created a network of decentralized relayer to handle this thing. Still need to do the beginner tutorial guide.
+
+[GSN Open Zeppelin Tutorial](https://docs.openzeppelin.com/learn/sending-gasless-transactions) 
+ 
+ 
 
