@@ -93,5 +93,9 @@ There are two simpified templates that we can use as a Convertible Note: KISS (K
 
 [GSN Open Zeppelin Tutorial](https://docs.openzeppelin.com/learn/sending-gasless-transactions) 
  
- 
+ ### May first week (01/05/2020 -> 07/05/2020)
+
+- WIL **(DeFi)** *MakerDAO* -> Learned how to intereact with Maker's Contract. All those names.
+.`ilk` (type of collateral), `art` (type of collateral inside urn), `dart` (amount of debt in urn), `join` -> `frob` -> `hope` -> `exit`. To open a CDP. Also you need a function to calculate your current debt and another one to frob and remove collateral from urn.
+
 
