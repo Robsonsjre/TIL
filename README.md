@@ -98,4 +98,19 @@ There are two simpified templates that we can use as a Convertible Note: KISS (K
 - WIL **(DeFi)** *MakerDAO* -> Learned how to intereact with Maker's Contract. All those names.
 .`ilk` (type of collateral), `art` (type of collateral inside urn), `dart` (amount of debt in urn), `join` -> `frob` -> `hope` -> `exit`. To open a CDP. Also you need a function to calculate your current debt and another one to frob and remove collateral from urn.
 
+### Jun (15/06/2020)
+
+- TIL **(Finance)** -> 
+Alpha (retorno) => número dado pra diferença de retorno entre o seu investimento e um index ou benchmarking. (e.g: DSR 1%, compound 2%. Alpha Compound seria 1.0.  An alpha of 1.0 means the investment outperformed its benchmark index by 1%.
+
+Beta (volatilidade) =>número dado pra diferença de volatilidade entre um asset e um índice. Isto é, quanto um ativo varia de preço perante uma referência:   
+  (e.g:
+`Micron Technology Inc. (MU): 1.26
+Coca-Cola Company (KO): .37
+Apple Inc. (AAPL): .99`  
+
+We can see that Micron is 26% more volatile than the market as a whole, while Coca-Cola is 37% as volatile as the market, and Apple is more in line with the market or 0.01% less volatile than the market.
+https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp
+
+
 
