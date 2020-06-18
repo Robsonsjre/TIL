@@ -98,6 +98,13 @@ There are two simpified templates that we can use as a Convertible Note: KISS (K
 - WIL **(DeFi)** *MakerDAO* -> Learned how to intereact with Maker's Contract. All those names.
 .`ilk` (type of collateral), `art` (type of collateral inside urn), `dart` (amount of debt in urn), `join` -> `frob` -> `hope` -> `exit`. To open a CDP. Also you need a function to calculate your current debt and another one to frob and remove collateral from urn.
 
+### Jun (12/06/2020)
+
+- TIL **(DeFi)** *TokenEconomics* -> Learned that a movement that protocol are trying to decentralize themselves beeing a mixing of MKR and SNX mechanism: 
+ - Voting on proposals / Delegating Votings
+ - Emergency reserves, minting and selling that token in that case
+ - Staking + weekly/daily/usage Rewards
+
 ### Jun (15/06/2020)
 
 - TIL **(Finance)** -> 
